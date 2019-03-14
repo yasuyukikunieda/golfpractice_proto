@@ -1,6 +1,6 @@
 
 #practiceMesseage {
-  width: 100px
+  width: 400px
   color: gray;
   font-weight: bolder;
   text-align: center;
@@ -12,8 +12,8 @@ body {
 }
 
 #btn {
-  width: 200px;
-  height: 200px;
+  width: 800px;
+  height: 800px;
   background: white;
   border-radius: 50%;
   margin: 30px auto 0;

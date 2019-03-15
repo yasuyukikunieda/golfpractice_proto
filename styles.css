@@ -37,3 +37,9 @@ body {
   margin-top : 35px;
 }
 
+footer p {
+  width: 400px
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+}

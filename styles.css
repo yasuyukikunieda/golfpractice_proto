@@ -38,4 +38,9 @@ body {
 }
 
 
-
+ #koushiki {
+       width: 400px
+       color: white;
+       font-weight: bolder;
+       text-align: center;
+     }

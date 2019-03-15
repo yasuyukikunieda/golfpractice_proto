@@ -37,9 +37,13 @@ body {
   margin-top : 35px;
 }
 
-footer p {
+
+#koushiki {
   width: 400px
-  color: white;
+  color: blue;
   font-weight: bolder;
   text-align: center;
+  margin: 30px auto 0;
+  text-align: center;
+  line-height: 200px;
 }
